@@ -26,7 +26,7 @@
 
         <ImageView
             android:layout_width="42dp"
-            android:layout_height="40dp"
+            android:layout_height="42dp"
             android:layout_alignTop="@+id/Homebutton"
             android:layout_toEndOf="@+id/Homebutton"
             android:layout_marginStart="25dp"
