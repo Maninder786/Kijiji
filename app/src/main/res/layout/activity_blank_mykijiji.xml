@@ -14,7 +14,7 @@
         android:orientation="horizontal"
         android:layout_alignParentBottom="true"
         android:layout_alignParentStart="true"
-        android:weightSum="5">
+        android:weightSum="6">
         <ImageView
             android:id="@+id/Homebutton"
             android:layout_width="40dp"
